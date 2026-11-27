@@ -13,6 +13,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img width="1000" height="10" alt="115834477-dbab4500-a447-11eb-908a-139a6edaec5c" src="https://github.com/user-attachments/assets/44518502-e8f8-4086-a39c-774d21173eb1" />
----
+
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ko-fi.com/01357101010) 
+
+<img width="1000" height="10" alt="115834477-dbab4500-a447-11eb-908a-139a6edaec5c" src="https://github.com/user-attachments/assets/44518502-e8f8-4086-a39c-774d21173eb1" />
